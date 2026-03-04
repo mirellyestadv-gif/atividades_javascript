@@ -6,7 +6,7 @@ let preco;
 let valorTotal;
 let produto;
 
-pedido = leia.questionInt("Digite a opção desejada: ");
+pedido = leia.questionInt("Digite a opcao desejada: ");
 quantidade = leia.questionInt("Digite quantidade desejada: ");
 
 
