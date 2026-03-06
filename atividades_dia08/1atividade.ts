@@ -1,7 +1,7 @@
 import readlineSync from "readline-sync";
 
 const cores:  Array<string> = new Array<string>(5);
-//let cadastro;
+
 
 
 for (let i =0; i < cores.length; i++){
